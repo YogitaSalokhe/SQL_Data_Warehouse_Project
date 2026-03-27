@@ -136,7 +136,7 @@ Contribution of each product category (Bikes, Clothing, Accessories) to total re
 
 📈 Key Insights:
 - A small percentage of customers (VIP segment) contribute a significant share of total revenue
-- Bike category generates the highest revenue compared to Clothing and Accessories
+- Bike category generates the highest revenue 96.46% compared to Clothing and Accessories
 - Certain products show low recency, indicating potential decline in demand
 - Sales trends reveal seasonal patterns across months
 - Customer segmentation helps identify high-value and at-risk customers
